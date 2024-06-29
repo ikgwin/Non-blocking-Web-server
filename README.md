@@ -1,6 +1,6 @@
 # Non-blocking-Web-server Implementation
 
-This project showcases a non-blocking web server implemented in C, designed to handle multiple simultaneous service requests. It features:
+This University project showcases a non-blocking web server implemented in C, designed to handle multiple simultaneous service requests. It features:
 
 Implementation of HTTP/1.1 protocol specifications.
 Use of socket programming to manage incoming client requests.
